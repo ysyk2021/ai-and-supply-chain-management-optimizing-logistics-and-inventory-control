@@ -1,5 +1,3 @@
-Demand and Sales Forecasting Data
-====================================================================================================
 
 Demand and sales forecasting is a critical component of supply chain management. By collecting and analyzing demand and sales data, companies can make informed decisions about inventory levels, production schedules, and distribution strategies. In this chapter, we will explore some of the key considerations for collecting and analyzing demand and sales forecasting data in supply chain management.
 

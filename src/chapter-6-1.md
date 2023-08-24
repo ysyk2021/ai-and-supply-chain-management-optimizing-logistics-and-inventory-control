@@ -1,5 +1,3 @@
-Overview of Implementing AI-Based Supply Chain Management
-======================================================================================================================
 
 Artificial intelligence (AI) has the potential to transform supply chain management by optimizing logistics and inventory control. However, implementing AI-based supply chain management requires careful planning and execution. This chapter will provide an overview of the key considerations for implementing AI-based supply chain management in supply chain operations.
 

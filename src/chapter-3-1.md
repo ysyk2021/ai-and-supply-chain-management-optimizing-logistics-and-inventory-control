@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and their Applications in Supply Chain Management
-===============================================================================================================================================
 
 Artificial intelligence (AI) is transforming the way organizations manage their supply chains. By using AI-based tools and processes, companies can optimize their supply chain operations and achieve greater efficiency and profitability. In this chapter, we will explore the different types of AI and their applications in supply chain management.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 In conclusion, AI is transforming the way organizations manage their supply chains. By using AI-based tools and processes, companies can optimize their supply chain operations and achieve greater efficiency and profitability. The different types of AI discussed in this chapter, including rule-based systems, machine learning, natural language processing, and robotics, are just a few examples of the types of AI that organizations can use to optimize their supply chain operations. The applications of AI in supply chain management, such as demand forecasting and planning, inventory optimization, transportation and logistics optimization, quality control, and regulatory compliance, demonstrate the many ways in which AI can be used to improve supply chain management.
-
 

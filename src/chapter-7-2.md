@@ -1,5 +1,3 @@
-Opportunities and Challenges in Scaling up AI-Based Supply Chain Management
-======================================================================================================================
 
 As AI-based supply chain management continues to evolve, opportunities and challenges arise in scaling up these technologies to meet the demands of modern supply chains. In this chapter, we will explore some of the opportunities and challenges in scaling up AI-based supply chain management.
 

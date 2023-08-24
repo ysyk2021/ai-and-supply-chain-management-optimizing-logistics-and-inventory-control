@@ -1,5 +1,3 @@
-The Need for AI-Based Supply Chain Management
-====================================================================
 
 Supply chain management is a complex process that involves the planning, execution, and control of the flow of goods and services from suppliers to customers. In recent years, the use of artificial intelligence (AI) in supply chain management has become increasingly important for organizations looking to optimize their operations. In this chapter, we will explore the need for AI-based supply chain management.
 

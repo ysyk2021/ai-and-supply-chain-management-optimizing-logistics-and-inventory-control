@@ -1,5 +1,3 @@
-Regulatory and Compliance Data
-=================================================================================================
 
 Regulatory and compliance data is a critical component of supply chain management. By collecting and analyzing regulatory and compliance data, companies can ensure that they meet legal requirements and avoid potential penalties or fines. In this chapter, we will explore some of the key considerations for collecting and analyzing regulatory and compliance data in supply chain management.
 

@@ -1,5 +1,3 @@
-Emerging Trends and Technologies in AI-Based Supply Chain Management
-===============================================================================================================
 
 As the field of AI-based supply chain management continues to evolve, new trends and technologies are emerging that have the potential to revolutionize the industry. In this chapter, we will explore some of these emerging trends and technologies, as well as the challenges that must be addressed to fully realize their potential.
 

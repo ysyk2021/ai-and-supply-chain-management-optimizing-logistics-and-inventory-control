@@ -1,5 +1,3 @@
-Transportation and Logistics Data
-====================================================================================================
 
 Transportation and logistics data is a critical component of supply chain management. By collecting and analyzing transportation and logistics data, companies can optimize their supply chain operations, reduce costs, and improve customer satisfaction. In this chapter, we will explore some of the key considerations for collecting and analyzing transportation and logistics data in supply chain management.
 

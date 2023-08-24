@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Supply Chain Management
-=====================================================================================================================
 
 Artificial intelligence (AI) is transforming the way organizations manage their supply chains. In this chapter, we will explore some case studies on the use of AI in supply chain management across different industries.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 In conclusion, AI-based supply chain management is transforming the way organizations manage their supply chains. By using techniques such as predictive analytics, optimization, blockchain, robotics and automation, and other AI-based tools and processes, companies can reduce costs, increase efficiency, and improve customer satisfaction. The case studies highlighted in this chapter provide examples of the ways in which organizations across different industries are using AI to optimize their supply chain operations.
-
 

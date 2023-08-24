@@ -1,5 +1,3 @@
-Integration with Supply Chain Management Processes and Tools
-=========================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize supply chain management by optimizing logistics and inventory control. However, in order to fully realize these benefits, AI must be integrated into existing supply chain management processes and tools. This chapter will explore some of the key considerations for integrating AI-based supply chain management into existing workflows.
 

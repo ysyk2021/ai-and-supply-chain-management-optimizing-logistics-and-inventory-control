@@ -1,5 +1,3 @@
-Artificial Intelligence in Supply Chain Management
-===========================================================
 
 Artificial intelligence (AI) is becoming increasingly important in supply chain management. By using AI-based tools and processes, companies can optimize their operations and achieve greater efficiency and profitability. In this chapter, we will explore the types of AI used in supply chain management, their advantages and limitations, and case studies on the use of AI in supply chain management.
 

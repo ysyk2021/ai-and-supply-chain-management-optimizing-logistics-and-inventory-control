@@ -1,5 +1,3 @@
-Chapter: Implementation of AI-Based Supply Chain Management
-===========================================================
 
 Implementing AI-based supply chain management can be a complex process that requires careful consideration of various factors. In this chapter, we will explore some of the key considerations involved in implementing AI-based supply chain management.
 

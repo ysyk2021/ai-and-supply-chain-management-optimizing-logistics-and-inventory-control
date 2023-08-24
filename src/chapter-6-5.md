@@ -1,5 +1,3 @@
-Business Models and Cost-Effectiveness
-===================================================================================================
 
 Implementing AI-based supply chain management requires careful consideration of business models and cost-effectiveness. In this chapter, we will explore some of the key considerations for developing business models and ensuring cost-effectiveness when implementing AI-based supply chain management.
 

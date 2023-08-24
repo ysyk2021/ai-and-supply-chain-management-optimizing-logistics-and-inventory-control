@@ -1,5 +1,3 @@
-Blockchain and Distributed Ledgers
-=======================================================================================================
 
 Blockchain technology provides a secure and transparent way to record transactions and data. In supply chain management, blockchain can be used to create an immutable record of every transaction and shipment, ensuring transparency and traceability throughout the supply chain. In this chapter, we will explore the use of blockchain and distributed ledgers in AI-based supply chain management.
 

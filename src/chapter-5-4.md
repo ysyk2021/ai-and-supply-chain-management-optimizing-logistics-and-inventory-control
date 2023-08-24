@@ -1,5 +1,3 @@
-Robotics and Automation
-============================================================================================
 
 Robotics and automation are becoming increasingly important in supply chain management. By using robots and automated systems, organizations can reduce human error, improve efficiency, and reduce costs. In this chapter, we will explore the use of robotics and automation in AI-based supply chain management.
 

@@ -1,5 +1,3 @@
-Autonomous Vehicles and Drones
-===================================================================================================
 
 Autonomous vehicles and drones are revolutionizing supply chain management by providing faster, more efficient transportation and delivery options. By using AI-based techniques and strategies, companies can optimize their use of autonomous vehicles and drones in their supply chain operations. In this chapter, we will explore the use of autonomous vehicles and drones in supply chain management, as well as some key AI-based techniques and strategies for optimizing their use.
 

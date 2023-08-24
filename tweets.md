@@ -9,4 +9,3 @@
 9. Supply chain management doesn't have to be a struggle. Learn how #AI can help you achieve your goals with this informative book.
 10. Ready to up your supply chain management game? Discover the benefits of #AI optimization techniques in this essential read.
 
-

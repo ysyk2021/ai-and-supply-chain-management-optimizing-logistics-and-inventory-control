@@ -1,5 +1,3 @@
-Overview of AI-Based Supply Chain Management Techniques and Strategies
-===========================================================================================================================================
 
 AI-based supply chain management techniques and strategies are becoming increasingly important for organizations looking to optimize their supply chain operations. In this chapter, we will provide an overview of some of the key AI-based supply chain management techniques and strategies that organizations can use.
 

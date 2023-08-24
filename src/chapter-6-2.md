@@ -1,5 +1,3 @@
-Regulatory and Ethical Considerations
-==================================================================================================
 
 As the use of artificial intelligence (AI) in supply chain management becomes more widespread, it is important to consider the regulatory and ethical implications of its implementation. This chapter will explore some of the key considerations for implementing AI-based supply chain management, including regulatory compliance, data privacy, and ethical concerns.
 

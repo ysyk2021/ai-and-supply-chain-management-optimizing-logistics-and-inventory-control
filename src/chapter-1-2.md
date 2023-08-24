@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and its Applications in Supply Chain Management
-==========================================================================================================
 
 Artificial intelligence (AI) is revolutionizing the way organizations manage their supply chains. By using AI-based tools and processes, companies can optimize their supply chain operations and achieve greater efficiency and profitability. In this chapter, we will provide an overview of AI and its applications in supply chain management.
 
@@ -32,5 +30,4 @@ Conclusion
 ----------
 
 In conclusion, AI is transforming the way organizations manage their supply chains. By using AI-based tools and processes, companies can optimize their supply chain operations and achieve greater efficiency and profitability. The applications of AI in supply chain management discussed in this chapter, including demand forecasting and planning, inventory optimization, transportation and logistics optimization, quality control, and regulatory compliance, are just a few examples of the ways in which organizations can use AI to optimize their supply chain operations.
-
 

@@ -1,5 +1,3 @@
-Overview of Supply Chain Management
-===================================================================================
 
 Supply chain management is the process of managing the flow of goods and services from suppliers to customers. It involves a complex network of interrelated activities, including procurement, production, transportation, and distribution. In this chapter, we will provide an overview of supply chain management and its importance in today's business environment.
 

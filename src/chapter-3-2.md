@@ -1,5 +1,3 @@
-Advantages and Limitations of AI in Supply Chain Management
-========================================================================================================================
 
 Artificial intelligence (AI) is transforming the way organizations manage their supply chains. By using AI-based tools and processes, companies can optimize their supply chain operations and achieve greater efficiency and profitability. However, there are both advantages and limitations to using AI in supply chain management. In this chapter, we will explore these advantages and limitations.
 

@@ -1,5 +1,3 @@
-Traditional Approaches to Supply Chain Management
-=================================================================================================
 
 Traditional approaches to supply chain management have been used for decades, and involve a series of sequential activities that move goods and services from suppliers to customers. In this chapter, we will provide an overview of traditional approaches to supply chain management.
 

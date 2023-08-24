@@ -1,5 +1,3 @@
-Overview of Data Collection and Analysis for Supply Chain Management
-=======================================================================================================================================
 
 In order to optimize logistics and inventory control in supply chain management, it is essential to collect and analyze large amounts of data. With the help of artificial intelligence (AI) tools, this data can be harnessed to provide valuable insights and inform decision-making processes. This chapter will provide an overview of the data collection and analysis process for supply chain management.
 

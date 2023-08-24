@@ -1,5 +1,3 @@
-Understanding Supply Chain Management
-==============================================
 
 Supply chain management is a critical process for businesses that involves the planning, execution, and control of the flow of goods and services from suppliers to customers. In this chapter, we will explore an overview of supply chain management, traditional approaches to supply chain management, and the limitations and challenges of these traditional approaches.
 

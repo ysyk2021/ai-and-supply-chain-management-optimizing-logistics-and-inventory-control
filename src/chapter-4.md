@@ -1,5 +1,3 @@
-Data Collection and Analysis for Supply Chain Management
-=================================================================
 
 Data collection and analysis are essential for effective supply chain management. By collecting and analyzing data from various sources, organizations can optimize their supply chain operations and achieve greater efficiency and profitability. In this chapter, we will provide an overview of data collection and analysis for supply chain management across different categories.
 
