@@ -16,3 +16,7 @@ Finally, we will explore emerging trends and technologies in AI-based supply cha
 By reading this book, readers will gain a better understanding of the potential benefits and challenges of using AI in supply chain management and learn how to effectively implement AI-based tools and processes to optimize their operations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
