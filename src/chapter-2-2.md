@@ -1,5 +1,4 @@
-Chapter: Traditional Approaches to Supply Chain Management
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the traditional approaches to supply chain management that have been widely used before the emergence of AI-driven solutions. We will explore the key components and characteristics of these conventional methods and discuss their strengths and weaknesses.
 

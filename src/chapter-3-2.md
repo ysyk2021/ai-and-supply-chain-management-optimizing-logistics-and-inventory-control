@@ -1,5 +1,4 @@
-Chapter: Advantages and Limitations of AI in Supply Chain Management
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the advantages and limitations of using AI in supply chain management for optimizing logistics and inventory control. While AI offers numerous benefits, it is important to understand its limitations to make informed decisions about its implementation in supply chain operations.
 

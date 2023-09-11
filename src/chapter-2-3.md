@@ -1,5 +1,4 @@
-Chapter: Limitations and Challenges of Traditional Approaches
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the limitations and challenges that traditional approaches face in the context of AI and supply chain management. We will discuss how these conventional methods fall short in optimizing logistics and inventory control, paving the way for the need to embrace AI-driven solutions.
 

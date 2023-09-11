@@ -1,5 +1,4 @@
-Chapter: Case Studies on the Use of AI in Supply Chain Management
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies that demonstrate the successful implementation and impact of AI in supply chain management. These case studies highlight how organizations have leveraged AI-driven solutions to optimize logistics and inventory control, resulting in improved operational efficiency, cost savings, and customer satisfaction.
 

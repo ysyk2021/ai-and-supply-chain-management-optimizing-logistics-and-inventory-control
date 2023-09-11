@@ -1,5 +1,4 @@
-Chapter: Overview of AI-based Supply Chain Management Techniques and Strategies
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the various techniques and strategies used in AI-based supply chain management to optimize logistics and inventory control. These techniques leverage artificial intelligence algorithms and technologies to enhance operational efficiency, improve decision-making, and drive overall supply chain performance.
 

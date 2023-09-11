@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Technologies in AI-based Supply Chain Management
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and technologies that are reshaping supply chain management through the integration of AI. We will discuss how these advancements are revolutionizing logistics and inventory control, improving operational efficiency, and enabling organizations to gain a competitive edge.
 

@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence and Their Applications in Supply Chain Management
-===========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore different types of artificial intelligence (AI) and their applications in supply chain management for optimizing logistics and inventory control. These AI technologies offer unique capabilities that can revolutionize various aspects of the supply chain, enhancing efficiency, decision-making, and overall performance.
 
